@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python Environment
+.python-version
+
+# Logs
+*.log
+
+# Streamlit Cache
+.streamlit/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+
+# Model Cache
+*.pkl.bak
